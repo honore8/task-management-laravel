@@ -7,5 +7,6 @@
 * `composer install`
 * `cp .env.example .env`
 * `php artisan key:generate`
+* `touch database.sqlite`
 * `php artisan migrate`
 * `php artisan serve`
